@@ -32,19 +32,19 @@ const Contact = () => {
   <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg flex-1">
     <h2 className="text-2xl font-bold text-[#ff7e56] mb-4">General Inquiries</h2>
     <p className="text-lg text-gray-700">info@epochfolio.com</p>
-    <p className="text-lg text-gray-700">+91 90165 31145</p>
+    <p className="text-lg text-gray-700">+91 90167 31145</p>
   </div>
 
   <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg flex-1">
     <h2 className="text-2xl font-bold text-[#ff7e56] mb-4">Partnerships</h2>
     <p className="text-lg text-gray-700">partnerships@epochfolio.com</p>
-    <p className="text-lg text-gray-700">+91 90165 31145</p>
+    <p className="text-lg text-gray-700">+91 90167 31145</p>
   </div>  
 
   <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-lg flex-1">
     <h2 className="text-2xl font-bold text-[#ff7e56] mb-4">Support</h2>
     <p className="text-lg text-gray-700">support@epochfolio.com</p>
-    <p className="text-lg text-gray-700">+91 90165 31145</p>
+    <p className="text-lg text-gray-700">+91 90167 31145</p>
   </div>
 </div>
 
