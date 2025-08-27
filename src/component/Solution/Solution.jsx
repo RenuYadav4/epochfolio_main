@@ -228,204 +228,7 @@ const Solution = () => {
         </div>
       </div>
 
-      {/* next section */}
-      <div className="bg-[#ffffffd0] flex flex-col h-full bg-cover bg-center bg-no-repeat object-fill">
-        <div className="md:w-[80%] p-25">
-          <div className="flex items-center md:gap-5 md:pt-30">
-            <div className="w-15 border-b-2 border-b-amber-600"></div>
-            <div className="text-xl">
-              <p>WHY IT IS FREE?</p>
-            </div>
-          </div>
-          <h1 className="text-3xl md:text-5xl font-bold mt-4 text-[#ff7e56] ">
-            <span className="text-[#e94d65]">Built by educators.</span>
-            <br />
-            Free for every student.
-          </h1>
-          <div className="flex gap-5 my-8 w-[80%]">
-            <div>
-              <p>
-                EpochFolio isn’t a product — it’s a mission. We believe
-                career-building resources should never come with a price tag.
-                That’s why everything we offer is completely free for students
-                and institutions alike.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="flex gap-5 w-full h-[300px] md:w-[1219px] md:h-[523.13px] md:top-[453.19px] md:left-[350px] opacity-100 transform rotate-0 mx-auto mt-4 md:mt-0">
-          <div class="relative w-[385.66px] h-[361.13px] left-[10px] opacity-100 transform rotate-0 shadow-[0_2px_20px_0_rgba(0,0,0,0.2)]">
-            <div class="bg-[#F3B164] absolute -top-[41px] w-[89.93px] h-[89.93px] left-[44.96px] opacity-100 rounded-[50%] transform rotate-0"></div>
-            <div class="relative w-[325.66px] h-[2px] top-[65px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div className="flex relative w-[325.66px] top-[92px] h-[131.13px] left-[30px] opacity-100 transform rotate-">
-              <div className="relative text-[#F3B164] font-sarabun font-extrabold text-[60px] leading-[60px] tracking-[-1.8px] align-middle w-[99.2px] h-[60px] left-[46.36px] opacity-100 transform rotate-0">
-                <span className="text-[20px] top-0">₹</span>0
-              </div>
-              <div>
-                <div
-                  className="relative font-roboto-condensed font-normal text-sm leading-[21px] tracking-normal align-middle uppercase
-            w-[133px] h-[21px] left-[35px] opacity-100 transform rotate-0"
-                >
-                  0% Fee
-                </div>
-                <div className="relative font-sarabun font-extrabold text-[25px] leading-[25px] tracking-[-0.75px] align-middle uppercase w-[163px] h-[58px] left-[35px] opacity-100 transform rotate-0">
-                  No Payment Ever
-                </div>
-              </div>
-            </div>
-            <div class="relative w-[325.66px] top-[84px] h-[2px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div
-              class="relative w-full h-auto px-4 my-4 
-            md:w-[325.66px] md:h-[131.13px] md:top-[90px] md:left-[30px] 
-            opacity-100 transform rotate-0"
-            >
-              <ul>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" /> No
-                  subscriptions
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  no hidden charges
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Always free
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Open for all
-                </li>
-              </ul>
-            </div>
-          </div>
-          {/* 2nd section */}
-          <div class="relative bg-[#FF6163] w-[385.66px] h-[361.13px] left-[10px] opacity-100 transform rotate-0 shadow-[0_2px_20px_0_rgba(0,0,0,0.2)]">
-            <div class="bg-[#F3B164] absolute -top-[41px] w-[89.93px] h-[89.93px] left-[44.96px] opacity-100 rounded-[50%] transform rotate-0"></div>
-            <div class="relative w-[325.66px] h-[2px] top-[65px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div className="flex relative w-[325.66px] top-[92px] h-[131.13px] left-[30px] opacity-100 transform rotate-">
-              {/* <div className="relative text-[#F3B164] font-sarabun font-extrabold text-[60px] leading-[60px] tracking-[-1.8px] align-middle w-[99.2px] h-[60px] left-[46.36px] opacity-100 transform rotate-0">
-                <span className="text-[20px] top-0">₹</span>0
-              </div> */}
-              <div>
-                <div className="relative font-roboto-condensed font-normal text-sm leading-[21px] tracking-normal align-middle uppercase h-[21px] left-[35px] opacity-100 transform rotate-0">
-                  Built by Industry Experts
-                </div>
-                <div className="relative font-sarabun font-extrabold text-[25px] leading-[25px] tracking-[-0.75px] align-middle uppercase w-[163px] h-[58px] left-[35px] opacity-100 transform rotate-0">
-                  Expert Crafted
-                </div>
-              </div>
-            </div>
-            <div class="relative w-[325.66px] top-[84px] h-[2px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div
-              class="relative w-full h-auto px-4 my-4 
-            md:w-[325.66px] md:h-[131.13px] md:top-[100px] md:left-[30px] 
-            opacity-100 transform rotate-0"
-            >
-              <ul>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" /> No
-                  subscriptions
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  no hidden charges
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Always free
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Open for all
-                </li>
-              </ul>
-            </div>
-          </div>
-          {/* 3rd section */}
-          <div class="relative w-[385.66px] h-[361.13px] left-[10px] opacity-100 transform rotate-0 shadow-[0_2px_20px_0_rgba(0,0,0,0.2)]">
-            <div class="bg-[#F3B164] absolute -top-[41px] w-[89.93px] h-[89.93px] left-[44.96px] opacity-100 rounded-[50%] transform rotate-0"></div>
-            <div class="relative w-[325.66px] h-[2px] top-[65px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div className="flex relative w-[325.66px] top-[92px] h-[131.13px] left-[30px] opacity-100 transform rotate-">
-              {/* <div className="relative text-[#F3B164] font-sarabun font-extrabold text-[60px] leading-[60px] tracking-[-1.8px] align-middle w-[99.2px] h-[60px] left-[46.36px] opacity-100 transform rotate-0">
-                <span className="text-[20px] top-0">₹</span>0
-              </div> */}
-              <div>
-                <div
-                  className="relative font-roboto-condensed font-normal text-sm leading-[21px] tracking-normal align-middle uppercase
-             h-[21px] left-[35px] opacity-100 transform rotate-0"
-                >
-                  ready to scale across universities
-                </div>
-                <div className="relative font-sarabun font-extrabold text-[25px] leading-[25px] tracking-[-0.75px] align-middle uppercase w-[163px] h-[58px] left-[35px] opacity-100 transform rotate-0">
-                  Campus Approved
-                </div>
-              </div>
-            </div>
-            <div class="relative w-[325.66px] top-[84px] h-[2px] left-[30px] opacity-10 transform rotate-0 bg-gray-500"></div>
-            <div
-              class="relative w-full h-auto px-4 my-4 
-            md:w-[325.66px] md:h-[131.13px] md:top-[90px] md:left-[30px] 
-            opacity-100 transform rotate-0"
-            >
-              <ul>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" /> No
-                  subscriptions
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  no hidden charges
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Always free
-                </li>
-                <li
-                  className="relative flex font-roboto font-normal text-base leading-[24px] tracking-normal align-middle uppercase
-             h-[19px] top-[6.39px] left-[24px] opacity-100 transform rotate-0"
-                >
-                  <TiTick className="text-[#F3B164] text-2xl" />
-                  Open for all
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
+      
 
       {/* newssection  */}
       <div
@@ -435,10 +238,10 @@ const Solution = () => {
         }}
       >
         <div className="bg-[#ffffffd0] flex flex-col items-center justify-center gap-5 h-[550px] w-full bg-cover bg-center bg-no-repeat object-fill ">
-          <div class="font-sarabun font-extrabold text-[60px] leading-[60px] tracking-[-1.8px] text-center align-middle">
+          <div className="font-sarabun font-extrabold text-[60px] leading-[60px] tracking-[-1.8px] text-center align-middle">
             Hungry for <span className="text-[#E94D65]"> Guidance?</span>
           </div>
-          <p class="font-roboto font-normal text-lg leading-[27px] tracking-normal text-center align-middle">
+          <p className="font-roboto font-normal text-lg leading-[27px] tracking-normal text-center align-middle">
             Let our experts guide you through every step of your student success
             strategy.  We offer free, personalized insights tailored to your
             institution’s goals.
@@ -456,7 +259,6 @@ const Solution = () => {
         </div>
       </div>
     </>
-  );
+      );
 };
-
-export default Solution;
+export default Solution;      

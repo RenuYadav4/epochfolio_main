@@ -15,7 +15,7 @@ import { GrUploadOption } from "react-icons/gr";
 const Footer = () => {
   return (
     <div>
-      <div className="px-6 md:px-12 lg:px-20 flex flex-col md:flex-row md:flex-wrap md:justify-evenly gap-10 md:items-start overflow-x-hidden">
+      <div className="px-6 mt-10 md:px-12 lg:px-20 flex flex-col md:flex-row md:flex-wrap md:justify-evenly gap-10 md:items-start overflow-x-hidden">
   {/* first */}
   <div className="flex flex-col gap-5 text-sm md:text-[14px] lg:text-lg max-w-sm">
     <div className="flex items-center gap-3">
